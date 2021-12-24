@@ -1,5 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aegamro)](https://solved.ac/aegamro)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Sumin&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
