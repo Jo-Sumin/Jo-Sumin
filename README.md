@@ -1,5 +1,5 @@
-
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aegamro">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aegamro)](https://solved.ac/aegamro)
 
 <!--
 **Jo-Sumin/Jo-Sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
